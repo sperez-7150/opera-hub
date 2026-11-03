@@ -5,7 +5,7 @@ Universal script hub. Totally legit, undetected 100%. Trust me bro.
 ## Run
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YOURNAME/opera-hub/main/OperaHub.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sperez-7150/opera-hub/main/OperaHub.lua"))()
 ```
 
 First launch downloads ~110 MB of "ESP assets" (one time only, watch the progress % in the hub).
